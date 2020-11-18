@@ -7,4 +7,4 @@
 
 ### Generalized Zero-Shot Learning--广义零样本学习
 
-1.[A Review of Generalized Zero-Shot Learning Methods](https://arxiv.org/abs/2011.08641)
+1.[A Review of Generalized Zero-Shot Learning Methods](https://arxiv.org/abs/2011.08641)[2020-11]
