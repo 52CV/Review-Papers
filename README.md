@@ -77,6 +77,11 @@
 
 10.1.[Deep Reinforcement Learning for Intelligent Transportation Systems: A Survey](https://arxiv.org/pdf/2005.00935.pdf)
 
+## Binary Neural Networks -- 二值化神经网络
+
+[Binary Neural Networks: A Survey](https://arxiv.org/pdf/2004.03333.pdf)
+- 本文对二值化神经网络进行了综述，详细介绍了BNN的概念、主要发展方向、技术总结以及硬件实现等内容。
+
 
 
 ## Others -- 其它
