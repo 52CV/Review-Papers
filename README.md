@@ -82,6 +82,11 @@
 [Binary Neural Networks: A Survey](https://arxiv.org/pdf/2004.03333.pdf)
 - 本文对二值化神经网络进行了综述，详细介绍了BNN的概念、主要发展方向、技术总结以及硬件实现等内容。
 
+## 11.Image Rectification -- 图像校正
+
+[Wide-angle Image Rectification: A Survey](https://arxiv.org/abs/2011.12108)
+- 从 transformation 模型到 rectification 方法全面回顾了广角图像校正的进展。
+
 
 
 ## Others -- 其它
