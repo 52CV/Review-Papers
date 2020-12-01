@@ -95,7 +95,7 @@
 ## 13.Video Description -- 视频描述
 
 [A Comprehensive Review on Recent Methods and Challenges of Video Description](https://arxiv.org/abs/2011.14752)
-
+- 本次调查是对视频描述方法的阶段、视频描述的数据集、评价指标、激励视频描述研究的公开竞赛、该领域的公开挑战和未来研究方向的全面调查。
 
 
 
