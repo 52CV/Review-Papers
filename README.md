@@ -88,6 +88,16 @@
 - 从 transformation 模型到 rectification 方法全面回顾了广角图像校正的进展。
 
 
+## 12.Optical character recognition -- 文本字符检测识别
+
+[A Survey of Deep Learning Approaches for OCR and Document Understanding](https://arxiv.org/abs/2011.13534)
+
+## 13.Video Description -- 视频描述
+
+[A Comprehensive Review on Recent Methods and Challenges of Video Description](https://arxiv.org/abs/2011.14752)
+
+
+
 
 ## Others -- 其它
 
