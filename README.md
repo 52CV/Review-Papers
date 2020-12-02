@@ -97,6 +97,10 @@
 [A Comprehensive Review on Recent Methods and Challenges of Video Description](https://arxiv.org/abs/2011.14752)
 - 本次调查是对视频描述方法的阶段、视频描述的数据集、评价指标、激励视频描述研究的公开竞赛、该领域的公开挑战和未来研究方向的全面调查。
 
+## 14 Image Retrieval -- 图像检索
+[A Decade Survey of Content Based Image Retrieval using Deep Learning](https://arxiv.org/abs/2012.00641)
+- 对近十年来基于深度学习的基于内容的图像检索发展进行了全面的调查
+
 
 
 ## Others -- 其它
