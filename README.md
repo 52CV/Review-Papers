@@ -101,6 +101,13 @@
 [A Decade Survey of Content Based Image Retrieval using Deep Learning](https://arxiv.org/abs/2012.00641)
 - 对近十年来基于深度学习的基于内容的图像检索发展进行了全面的调查
 
+## 15 Object tracking -- 目标跟踪
+
+[Multi-modal Visual Tracking: Review and Experimental Comparison](https://arxiv.org/abs/2012.04176)
+
+-多模态视觉跟踪综述
+-[Github](https://github.com/zhang-pengyu/Multimodal-Tracking-Survey)
+
 
 
 ## Others -- 其它
