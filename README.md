@@ -105,8 +105,9 @@
 
 [Multi-modal Visual Tracking: Review and Experimental Comparison](https://arxiv.org/abs/2012.04176)
 
--多模态视觉跟踪综述
--[Github](https://github.com/zhang-pengyu/Multimodal-Tracking-Survey)
+- 多模态视觉跟踪综述
+
+- [Github](https://github.com/zhang-pengyu/Multimodal-Tracking-Survey)
 
 
 
