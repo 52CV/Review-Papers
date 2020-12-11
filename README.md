@@ -146,5 +146,9 @@
 
 - 最新《深度多任务学习》综述论文，22页pdf109篇文献概述MTL最新进展
 
+8.[Machine Learning Information Fusion in Earth Observation: A Comprehensive Review of Methods, Applications and Data Sources](https://arxiv.org/abs/2012.05795)
+
+- 对地球观测信息融合的最新工作进行了全面回顾
+
 
 
