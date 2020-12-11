@@ -110,6 +110,11 @@
 - [Github](https://github.com/zhang-pengyu/Multimodal-Tracking-Survey)
 
 
+## 16 Medical Image --医学图像
+
+[3D Bounding Box Detection in Volumetric Medical Image Data: A Systematic Literature Review](https://arxiv.org/abs/2012.05745)
+
+
 
 ## Others -- 其它
 
