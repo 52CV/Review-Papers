@@ -114,6 +114,12 @@
 
 [3D Bounding Box Detection in Volumetric Medical Image Data: A Systematic Literature Review](https://arxiv.org/abs/2012.05745)
 
+## 17 Action Recognition -- 动作识别
+
+[A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567)
+
+- [Code and model zoo](https://cv.gluon.ai/model_zoo/action_recognition.html)
+
 
 
 ## Others -- 其它
