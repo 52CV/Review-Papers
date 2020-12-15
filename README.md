@@ -114,6 +114,11 @@
 
 [3D Bounding Box Detection in Volumetric Medical Image Data: A Systematic Literature Review](https://arxiv.org/abs/2012.05745)
 
+### CT 扫描
+[Deep Neural Networks for COVID-19 Detection and Diagnosis using Images and Acoustic-based Techniques: A Recent Review](https://arxiv.org/abs/2012.07655)
+
+- 对近年来流行的基于深度学习（DL）算法的COVID-19的检测方法进行全面的回顾
+
 ## 17 video understanding -- 视频理解
 
 ### Video Action Recognition -- 视频动作识别
