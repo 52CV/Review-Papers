@@ -40,7 +40,10 @@
 
 ### 5.1Face Recognition - 人脸识别
 
-5.1.1.[Deep Face Recognition: A Survey](https://arxiv.org/abs/1804.06655)
+[Deep Face Recognition: A Survey](https://arxiv.org/abs/1804.06655)
+
+### 5.2Facial Micro-expression Recognition - 微表情识别
+[An Overview of Facial Micro-Expression Analysis: Data, Methodology and Challenge](https://arxiv.org/abs/2012.11307)
 
 
 ## 6.Generative Adversarial Networks -- 生成式对抗网络
