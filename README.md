@@ -133,6 +133,12 @@
 - [Code and model zoo](https://cv.gluon.ai/model_zoo/action_recognition.html)
 
 
+## 18.image processing -- 图像处理
+
+### image denoising - 图像去噪
+
+[A Survey on the Visual Perceptions of Gaussian Noise Filtering on Photography](https://arxiv.org/abs/2012.10472)
+
 
 ## Others -- 其它
 
