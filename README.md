@@ -139,6 +139,10 @@
 
 [A Survey on the Visual Perceptions of Gaussian Noise Filtering on Photography](https://arxiv.org/abs/2012.10472)
 
+## 19.Human Action Detection and Recognition 人体动作检测与识别
+
+[Human Action Recognition from Various Data Modalities: A Review](https://arxiv.org/abs/2012.11866)
+
 
 ## Others -- 其它
 
