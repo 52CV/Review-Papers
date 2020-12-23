@@ -143,6 +143,8 @@
 
 [Human Action Recognition from Various Data Modalities: A Review](https://arxiv.org/abs/2012.11866)
 
+- 从输入数据模态的角度对HAR进行了全面的回顾
+
 
 ## Others -- 其它
 
