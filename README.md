@@ -145,6 +145,10 @@
 
 - 从输入数据模态的角度对HAR进行了全面的回顾
 
+[Skeleton-based Approaches based on Machine Vision: A Survey](https://arxiv.org/abs/2012.12447)
+
+- 不再从理论上描述这些技术，而是尽可能全面地总结基于骨架方法的应用领域和给定任务。
+
 
 ## Others -- 其它
 
