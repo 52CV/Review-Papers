@@ -132,6 +132,12 @@
 
 - [Code and model zoo](https://cv.gluon.ai/model_zoo/action_recognition.html)
 
+## 18 Transformer
+
+[A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556)
+
+- 作者将这些视觉 Transformer 模型按不同的任务进行分类，并对这些方法的优缺点进行了分析，对模型进行了文献调查。
+
 
 ## 18.image processing -- 图像处理
 
