@@ -155,6 +155,12 @@
 
 - 作者将这些视觉 Transformer 模型按不同的任务进行分类，并对这些方法的优缺点进行了分析，对模型进行了文献调查。
 
+## 21 Human Pose Estimation -- 人体姿态估计
+
+[Deep Learning-Based Human Pose Estimation: A Survey](https://arxiv.org/abs/2012.13392)
+
+- 对近期基于深度学习的二维和三维HPE方法进行了全面系统的概述
+
 
 ## Others -- 其它
 
