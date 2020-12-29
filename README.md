@@ -51,6 +51,10 @@
 6.1.[Generative Adversarial Networks (GANs): Challenges, Solutions, and Future Directions](https://arxiv.org/ftp/arxiv/papers/2005/2005.00065.pdf)
 - 生成式对抗网络(GANs)最新2020综述，41页pdf阐述GAN训练、 挑战、解决方案和未来方向
 
+[Image Synthesis with Adversarial Networks: a Comprehensive Survey and Case Studies](https://arxiv.org/abs/2012.13736)
+
+- [提供了一个实时存储库，其中包含本次调查中讨论的源代码、数据集和论文，将每月更新](https://github.com/pshams55/GAN-Case-Study)
+
 
 ## 7.OCR
 
@@ -111,6 +115,10 @@
 - 多模态视觉跟踪综述
 
 - [Github](https://github.com/zhang-pengyu/Multimodal-Tracking-Survey)
+
+[Camouflaged Object Detection and Tracking: A Survey](https://arxiv.org/abs/2012.13581)
+
+- 伪装目标、检测和跟踪
 
 
 ## 16 Medical Image --医学图像
